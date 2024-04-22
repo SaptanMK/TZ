@@ -18,7 +18,7 @@ find $input_dir -type f | while read file; do
     while [ -e "$new_file" ]; do
         base=${filename%.*}
         ext=${filename##*.}
-        if [ $base != $ext ]; then
+        if [ "$base" != "$ext" ]; then
             new_file="$output_dir/${base}_$i.$ext"
         else
             new_file="$output_dir/${base}_$i"
