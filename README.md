@@ -13,9 +13,9 @@
 - Сумма: _вычисленное число_
 - Произведение: _вычисленное число_
 ## Технологии
-*[jUnit 5](https://junit.org/junit5/)
-*[GitHub Actions](https://github.com/features/actions)
-*[Maven](https://maven.apache.org/)
+* [jUnit 5](https://junit.org/junit5/)
+* [GitHub Actions](https://github.com/features/actions)
+* [Maven](https://maven.apache.org/)
 ## Использование
 Для использования данной программы необходимо отредактировать файл "numbers.txt" или заменить его файлом с таким же названием, но с необходимыми данными.
 ## Тестирование
