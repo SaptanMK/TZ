@@ -25,9 +25,4 @@
 Для отображения времени, за которое выполнилось полное тестирование необходимо запустить TestLauncher.java
 ## Производительность
 ![chart](https://github.com/SaptanMK/TZ/assets/44113657/1b0169e0-bb1d-429d-a4d8-4f92b4a76b5a)
-![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
-
-В сноске:  
-![alt-текст][logo]
-
-[logo]: https://github.com/SaptanMK/TZ/assets/44113657/1b0169e0-bb1d-429d-a4d8-4f92b4a76b5a
+Количество чисел в файле
