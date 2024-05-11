@@ -26,7 +26,7 @@
 ## Производительность
 ![изображение](https://github.com/SaptanMK/TZ/assets/44113657/700f0d08-2396-4086-860f-7a16fdefb81f)
 ## CI
-![CI](https://github.com/SaptanMK/main/workflows/CI/badge.svg)
+![CI](https://github.com/SaptanMK/.github/workflows/CI/badge.svg)
 ## Команда проекта
 Выполнил: Михайлов Кирилл Александрович, студент группы 237.
 
